@@ -21,6 +21,13 @@ Feature	Description
 
 🎨 CSS Styling
 
+Picture
+<img width="1918" height="970" alt="image" src="https://github.com/user-attachments/assets/fa38d07a-5561-4392-bcda-c5566d70807e" />
+
+<img width="1902" height="912" alt="image" src="https://github.com/user-attachments/assets/34df91f4-e348-449f-b839-5f5c05059c9e" />
+
+
+
 🚀 Getting Started (Run Locally)
 # Clone repo
 git clone https:https://github.com/Mesandu2007/Movie-Search/
@@ -70,6 +77,7 @@ Example usage:
 Contributions & suggestions are always welcome!
 
 
+
 🧑‍💻 Author
 
 Your Name
@@ -78,4 +86,5 @@ Your Name
 ⭐ Support the Project
 
 If you like this project, please give it a star ⭐ — it motivates me to build more!
+
 
